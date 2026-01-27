@@ -24,7 +24,7 @@ cd Ollama-Movies-Recommendation-Chatbot
 pip install -r requirements.txt
 ```
 
-4. You can see the [data_processing](https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbot/tree/main/data_processing) folder for the steps to prepare the qdrant "movies" collection.
+4. You can see the [data_processing](https://github.com/Santhote/Ollama-Movies-Recommendation-Chatbot/tree/main/data_processing) folder for the steps to prepare the qdrant "movies" collection.
 
 For more information, refer to the [data_processing] folder.
 
