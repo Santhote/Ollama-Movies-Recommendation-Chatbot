@@ -9,7 +9,7 @@ Make sure you has [ollama](https://ollama.com/) installed on your computer, we w
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbot
+git clone https://github.com/Santhote/Ollama-Movies-Recommendation-Chatbot
 ```
 
 2. Navigate to the project directory:
