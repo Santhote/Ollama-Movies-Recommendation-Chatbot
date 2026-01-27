@@ -9,13 +9,13 @@ Make sure you has [ollama](https://ollama.com/) installed on your computer, we w
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbott
+git clone https://github.com/sauravparge12345/Ollama-Movies-Recommendation-Chatbot
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd ollama-movie-gpt
+cd Ollama-Movies-Recommendation-Chatbot
 ```
 
 3. Install the required Python packages:
@@ -44,4 +44,4 @@ You can access the gradio chatbot at http://localhost:7860/
 
 ## Demo
 
-![alt text](image/image.png)
+![alt text](image/image1.png)
