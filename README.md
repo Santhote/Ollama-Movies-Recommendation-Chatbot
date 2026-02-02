@@ -44,4 +44,4 @@ You can access the gradio chatbot at http://localhost:7860/
 
 ## Demo
 
-![alt text](image/image1.png)
+![alt text](image/image4.png)
